@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kangle-y
 - 👀 I’m interested in fitness, travelling and reading!
 - 🌱 I’m currently learning Computer Sciece @ UoN
-- 💞️ I’m doing the GitHub as my own exercises record.
+- 💞️ I’m doing the GitHub as my record of CS50
 - 📫 How to reach me ... 
 
 <!---
